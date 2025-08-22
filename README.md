@@ -8,7 +8,7 @@ MTDS (Multi-tier Dynamic Storage) is a novel scheme that moves the KV cache from
 - GPU: NVIDIA compute capability 7.0+ (e.g., V100, T4, RTX20xx, A100, L4, H100, etc.)
 - CUDA 12.8+
 
-#### Deploy project
+### Deploy project
 * Download the project and place it in a custom directory (such as /home/MTDS/)  <br>
 ```
 cd /home/MTDS/
